@@ -9,7 +9,7 @@ City Officials have identified a subset of Y* INT, a community-based social medi
 
 ### Data 
 
-In ./data_MC3 you will find one CSV file, spanning from 04/06/2020 to 04/12/2020, which has the following fields:
+In ./VoicePeople/data you will find one CSV file, spanning from 04/06/2020 to 04/12/2020, which has the following fields:
 
 - time (date/time the message was posted)
 - location (St. Himark neighborhood message was posted from)
